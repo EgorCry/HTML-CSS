@@ -138,3 +138,18 @@ header, footer {
     width: 20%;
     margin-left: 1%;
 }
+
+.img_vr {
+    width: 17%;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.img_vr:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(149, 0, 255, 0.4);
+  }
+
+.img_vr:active {     
+    background-color: yellow;  
+}
